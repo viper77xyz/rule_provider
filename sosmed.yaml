@@ -1,28 +1,28 @@
 payload:
 #Tiktok
-  - "+.muscdn.com"
-  - "+.musical.ly"
-  - "+.tiktok.com"
-  - "+.tiktokcdn.com"
-  - "+.tiktokv.com"
-  - "+.ibytedtos.com"
-  - "+.byteoversea.com"
-  - "+.tiktokcdn-us.com"
-  - "p16-tiktokcdn-com.akamaized.net"
+  - '+.muscdn.com'
+  - '+.musical.ly'
+  - '+.tiktok.com'
+  - '+.tiktokcdn.com'
+  - '+.tiktokv.com'
+  - '+.ibytedtos.com'
+  - '+.byteoversea.com'
+  - '+.tiktokcdn-us.com'
+  - 'p16-tiktokcdn-com.akamaized.net'
 #Facebook
-  - "+.fbcdn.net"
-  - "+.fb.com"
-  - "+.facebook.com"
+  - '+.fbcdn.net'
+  - '+.fb.com'
+  - '+.facebook.com'
 #Telegram
-  - "+.t.me"
-  - "+.tg.dev"
-  - "+.tdekstop.com"
-  - "+.telegram.org"
-  - "+.telegra.ph"
-  - "+.telegram.com"
-  - "+.telegram.me"
-  - "+.telegram.space"
+  - '+.t.me'
+  - '+.tg.dev'
+  - '+.tdekstop.com'
+  - '+.telegram.org'
+  - '+.telegra.ph'
+  - '+.telegram.com'
+  - '+.telegram.me'
+  - '+.telegram.space'
 #Whatsapp
-  - "+.wa.me"
-  - "+.whatsapp.net"
-  - "+.whatsapp.com"
+  - '+.wa.me'
+  - '+.whatsapp.net'
+  - '+.whatsapp.com'
