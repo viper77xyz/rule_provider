@@ -1,6 +1,6 @@
 payload:
 #SaudaraGoogle
-  - '+.gstatic.com'
-  - '+.googleapis.com'
-  - '+.googleusercontent.com'
-  - '+.doubleclick.net'
+  - "+.gstatic.com"
+  - "+.googleapis.com"
+  - "+.googleusercontent.com"
+  - "+.doubleclick.net"
