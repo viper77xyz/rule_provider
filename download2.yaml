@@ -5,6 +5,9 @@ payload:
   - "+.googleapis.com"
   - "+.googleusercontent.com"
   - "+.doubleclick.net"
+  - "+.googlesyndication.com"
+  - "+.google.com"
+  - "+.googletagservices.com"
 #Youtube
   - "+.googlevideo.com"
   - "+.video.google.com"
