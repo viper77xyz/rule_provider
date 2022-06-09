@@ -1,6 +1,5 @@
 payload:
 #Roblox
-  - "+."
   - DOMAIN-SUFFIX,rbxcdn.com
   - DOMAIN-SUFFIX,roblox.com  
   - IP-CIDR,128.116.21.114/8
