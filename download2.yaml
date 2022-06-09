@@ -1,5 +1,6 @@
 payload:
 #SaudaraGoogle
+  - "+.google-analytics.com"
   - "+.gstatic.com"
   - "+.googleapis.com"
   - "+.googleusercontent.com"
@@ -168,3 +169,4 @@ payload:
   - "+.yt.be"
   - "+.yt3.ggpht.com"
   - "+.ytimg.com"
+  - "+.gvt2.com"
